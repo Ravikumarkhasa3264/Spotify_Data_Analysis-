@@ -1,3 +1,8 @@
+<img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/843bbe51-9dc6-468f-a5d1-9b9c0f9e7226" />
+
+
+
+
 🎵 Spotify Data Analysis SQL Queries
 
 Welcome to my Spotify Data Analysis repository! Here, I explore a dataset of Spotify tracks using SQL Server (SSMS). 
